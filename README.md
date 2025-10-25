@@ -1,17 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manjit Chakraborty</h1>
-<h3 align="center">A passionate tech innovator and Android developer from India, exploring AI, IoT, and 5G-powered solutions. With expertise in app development, computer vision, and robotics, I strive to create impactful and futuristic technologies.</h3>
 
-- 🔭 I’m currently working on [AI Powered Parking system](https://github.com/manjit32987/Parking-usingYolo)
-
-- 🌱 I’m currently learning **Machine learning, Computer vision , Robot Operating System**
-
-- 👯 I’m looking to collaborate on **Robotics**
-
-- 💬 Ask me about **Android Development**
-
-- 📫 How to reach me **manjit10042005@gmail.com**
-
-- ⚡ Fun fact **An Average Engineer with a Dream(and debt)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
